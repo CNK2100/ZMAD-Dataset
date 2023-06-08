@@ -1,6 +1,6 @@
 #  ZMAD Devices Traffic Dataset
 
-This is the dataset used in the paper:" ZMAD: Lightweight Model-based Anomaly Detection for the Structured Z-Wave Protocol".
+This is the pre-processed dataset used in the paper:" ZMAD: Lightweight Model-based Anomaly Detection for the Structured Z-Wave Protocol".
 
 The dataset can be used to test cybersecurity applications, Ai-based IDS, threat intelligence, adversarial machine learning that target the Z-Wave protocol.
 
