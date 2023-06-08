@@ -1,4 +1,4 @@
-#  ZMAD Devices Traffic Datase
+#  ZMAD Devices Traffic Dataset
 
 This is the dataset used in the paper:" ZMAD: Lightweight Model-based Anomaly Detection for the Structured Z-Wave Protocol".
 
