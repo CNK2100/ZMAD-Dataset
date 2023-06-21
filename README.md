@@ -16,7 +16,6 @@ Paper link: https://ieeexplore.ieee.org/document/10148964
 
 For more information about the dataset, please contact Carlos Nkuba, on his email: carlosnkuba@korea.ac.kr.
 
-----------
- Follow update at : https://github.com/CNK2100/ZMAD-Dataset
+Follow update at : https://github.com/CNK2100/ZMAD-Dataset
 
 Last Updated: 08 June 2023
