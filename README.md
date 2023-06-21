@@ -8,9 +8,11 @@ ZMAD dataset includes heterogeneous real Z-Wave devices traffic such as the main
 
 The dataset consists of normal (benign) traffic and abnormal (attack) traffic collected from known Z-Wave vulnerabilities and fuzzing techniques.
 
-For the academic/public use of the dataset, the researcher MUST cite the following paper:
+**For the academic/public use of the dataset, the researcher MUST cite the following paper:**
 
-C. K. Nkuba, S. Woo, H. Lee, and S. Dietrich, "ZMAD: Lightweight Model-based Anomaly Detection for the Structured Z-Wave Protocol," in IEEE Access, 2023.
+**C. K. Nkuba, S. Woo, H. Lee, and S. Dietrich, "ZMAD: Lightweight Model-based Anomaly Detection for the Structured Z-Wave Protocol," in IEEE Access, 2023.**
+
+Paper link: https://ieeexplore.ieee.org/document/10148964
 
 For more information about the dataset, please contact Carlos Nkuba, on his email: carlosnkuba@korea.ac.kr.
 
