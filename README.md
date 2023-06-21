@@ -4,7 +4,7 @@ This is the pre-processed dataset used in the paper:" ZMAD: Lightweight Model-ba
 
 The dataset can be used to test cybersecurity applications, Ai-based IDS, threat intelligence, and adversarial machine learning that target the Z-Wave protocol.
 
-ZMAD dataset includes heterogenous real Z-Wave devices traffic such as the main controller, several slaves devices, actuators, and sensors. 
+ZMAD dataset includes heterogeneous  real Z-Wave devices traffic such as the main controller, several slaves devices, actuators, and sensors. 
 
 The dataset consists of normal (benign) traffic and abnormal (attack) traffic collected from known Z-Wave vulnerabilities and fuzzing techniques.
 
